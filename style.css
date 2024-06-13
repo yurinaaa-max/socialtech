@@ -632,7 +632,7 @@ PC用のスタイル
       font-size: 16px;
   }
 
-  /* セクション1 
+  /* セクション1   */
   .product-section1 {
     display: flex;
     margin: 20px;
@@ -649,9 +649,9 @@ PC用のスタイル
   .product-section1 > div {
       width: calc(500px/1010*100%);
   }
-  */
 
-    /* セクション1 */
+
+    /* セクション1 
     .product-section1 {
     position: relative;
     margin: 20px;
@@ -672,6 +672,7 @@ PC用のスタイル
     top: 0;
     left: 480px;
 }
+*/
 
 
   /*セクション２*/
